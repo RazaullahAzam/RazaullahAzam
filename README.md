@@ -32,16 +32,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=razaullah&show_icons=true&theme=radical" alt="Razaullah's GitHub stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=razaullah&theme=radical" />
-</p>
-
----
-
 ## 📫 Get in Touch
 
 <p align="center">
